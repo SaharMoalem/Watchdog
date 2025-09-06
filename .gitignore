@@ -1,0 +1,14 @@
+#Ignore everything
+*
+#But not these files
+!*.sh
+!*.c
+!*.so
+!*.cpp
+!*.h
+!*.hpp
+!Makefile
+!*.md
+!.gitignore
+!*.jpeg
+!*/
